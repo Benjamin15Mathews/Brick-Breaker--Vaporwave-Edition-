@@ -1,2 +1,2 @@
 # Brick Breaker (Vaporwave Edition)
- 
+Utilized C++ and Gamemaker Studio 2 to make a breakout clone showcasing the ability to make menus/menu interfaces, particles, collision, camera effects, and create objects that can output sound.
